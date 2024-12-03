@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "8.0")
 	(uuid "c9b6cb36-23e5-4bbd-86e2-78d68830c5ab")
-	(paper "A4")
+	(paper "USLetter")
 	(title_block
 		(title "PCM1804 Breakout Board")
 		(date "2024-12-03")
